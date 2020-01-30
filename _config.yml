@@ -99,5 +99,7 @@ theme: ayer
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://e.coding.net/SLdeongaree/rico.git
+  repo: 
+    coding: https://e.coding.net/SLdeongaree/rico.git
+    github: https://github.com/Sirlanri/sirlanri.github.io.git
   branch: master
